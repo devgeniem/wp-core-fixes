@@ -7,3 +7,6 @@ This is WordPress plugin which includes small fixes for bugs in WordPress Core.
 
 ## License
 MIT
+
+## Maintainers
+[@Liblastic](https://github.com/Liblastic)
